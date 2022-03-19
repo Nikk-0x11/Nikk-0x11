@@ -1,9 +1,6 @@
 <p align="center">
   
   <h1 align="center">Hi, I'm Nikk AKA Nikhil 👋</h1>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikk-0x11" alt="Profile visits">
-  </p>
   <h3 align="center">I'm a University Student 👨‍🎓 and a Full-Stack Web developer 👨‍💻</h3>
 
 
