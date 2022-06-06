@@ -1,9 +1,9 @@
 - 🌱 I’m currently learning **Data Structure and Algorithms** and **Problem Solving**.
 - ⚙  I daily use **VSCode**, **Sublime Text**, **Git/Github**, **Coffee**, **Spotify**, **Chrome/Firefox**
 - 🔭 I’m currently working at **PathOr Platforms Pvt. Ltd.** as a **Full-Stack Developer**.
-- 😀 I like coding new things, solving challanging programming problems, writing blogs, playing competitive games and help other fellow coders with their coding problems.
+-  I like coding new things, solving challanging programming problems, playing competitive games and help other fellow coders with their coding problems.
 - 💬 Ask me about **Web Development**, **Capture The Flag**, **Software Development**, **UI/UX**, **Discord and Telegram bots**.
-- ⚡ Fun fact: I like cats.
+- 🐈 Fun fact: I like cats.
 
 <h3># Social Links:</h3>
 
